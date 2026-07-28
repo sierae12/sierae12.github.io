@@ -23,15 +23,14 @@ about:
 
 I build data pipelines and turn messy data into decisions people can act on.
 Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone [predicts \[your one-line problem\]](capstone.qmd) for
-\[your stakeholder\].
+where my capstone [predicts rising stream temperatures](capstone.qmd) for
+the City of Salem.
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
+I care about environmental protection, health studies, reproducible workflows, and explaining a model to the person
 who has to trust it.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** data scientist roles
+starting June 2027. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
@@ -47,7 +46,8 @@ Willamette University, 2026
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
 R · Python · SQL
-Quarto · Git · \[add yours\]
+HTML · CSS · Javascript
+Quarto · Git · SFDC
 :::
 
 ::: {.g-col-12 .g-col-md-4}
