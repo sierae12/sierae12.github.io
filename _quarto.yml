@@ -9,9 +9,9 @@ execute:
   freeze: auto
 
 website:
-  title: "Blitz Bearcat"
+  title: "Siera Edwards"
   description: "M.S. Data Science portfolio — Willamette University"
-  site-url: https://your_github_username.github.io
+  site-url: https://sierae12.github.io
   navbar:
     right:
       - href: index.qmd
@@ -25,10 +25,10 @@ website:
       - href: about.qmd
         text: About
       - icon: github
-        href: https://github.com/your_github_username
+        href: https://github.com/sierae12
         aria-label: GitHub
       - icon: linkedin
-        href: https://linkedin.com/in/your_github_username
+        href: https://www.linkedin.com/in/siera-edwards/
         aria-label: LinkedIn
   page-footer:
     left: "© 2026 Blitz Bearcat"
