@@ -1,5 +1,5 @@
 ---
-title: "Blitz Bearcat"
+title: "Siera Edwards"
 subtitle: "M.S. Data Science Candidate · Willamette University"
 image: images/profile.png
 about:
@@ -9,13 +9,13 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/sierae12
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: https://www.linkedin.com/in/siera-edwards/
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: smedwards@willamette.edu
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
@@ -52,8 +52,8 @@ Quarto · Git · \[add yours\]
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
-Salem, OR
-Open to \[remote / relocation\]
+Hillsboro, OR
+Open to remote
 :::
 
 :::
