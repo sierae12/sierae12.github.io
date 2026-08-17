@@ -1,35 +1,28 @@
 ---
 title: "About"
-image: images/profile.png
+image: images/profile.jpg
 about:
   template: solana
   image-shape: round
   image-width: 12em
 ---
 
-## Hi, I'm Blitz 👋
+## Hi, I'm Siera 👋
 
-The home page is the ten-second version. This is the longer story — write it in
-your own voice.
+I came to data science from the desire to turn raw data into actionable insights to make the world a better place. What keeps me here is the beauty of storytelling with data visualizations and the ability to have an impact.
 
-I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is \[the part of the work you genuinely
-enjoy — the modeling, the wrangling, the moment a chart makes something click\].
-
-At Willamette my focus has been \[your emphasis: forecasting, causal inference,
-NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
-together.
+At Willamette my focus has been the intersection of environmental protection and data visualization. My [capstone](capstone.qmd) is where that comes together.
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 🌲 I enjoy spending time outdoors. Whether walking my dog or going on a hike I love spending time in the sun. 
+- 📚 I am currently learning more about Supply Chain Data Analytics to reduce waste that negatively impacts businesses and the environment.
+- 🎯 In two years, I want to continue to explore dashboard creation to create accessible insights for executives.
 
 ### Get in touch
 
-I'm happy to talk about \[data work, collaborations, roles\].
+I'm happy to talk about intriguing work projects and the latest news in Data Science.
 
-- ✉️ [you@willamette.edu](mailto:you@willamette.edu)
-- 💼 [LinkedIn](https://linkedin.com/in/your_github_username)
-- 💻 [GitHub](https://github.com/your_github_username)
+- ✉️ [smedwards@willamette.edu](mailto:smedwards@willamette.edu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/siera-edwards/)
+- 💻 [GitHub](https://github.com/sierae12)
