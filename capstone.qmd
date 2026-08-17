@@ -40,7 +40,7 @@ To evaluate feature impact on stream temperature predictions, multiple linear re
 
 ## Findings
 
-![Key Diagram.](projects/capstone/stream_predictions.png){fig-alt="Best Performing Stream Temperature Predictive Model with Future Estimates" width="90%"}
+![With the line of best fit (blue) overlaid on the actual historic values for stream temperatures (green), this graph displays the predictions (pink) into the future for stream temperature, given all values are identical to 2024 aside from the weather temperature, which is steadily increasing at a slope of 2.5 degrees Celsius of warming by 2050. While this pseudo-future data is not highly accurate, the predictions follow the expected sinusoidal pattern.](projects/capstone/stream_predictions.png){fig-alt="Best Performing Stream Temperature Predictive Model with Future Estimates" width="90%"}
 
 This project shows that historic stream temperature data can be used to predict stream temperature with a high R-squared value of at least 90.0%, according to the best model in this project. The inclusion of weather data increases this model’s performance with an R-squared value of 94.5%. The addition of tree canopy data increases the model’s performance with an R-squared value of 94.7%. However, since this data has an extremely limited range for year, it is difficult to tell if the addition of the tree canopy data would truly improve the model over the same period as the other models, or if its increased R-squared value is simply due to fewer observations.
 
